@@ -49,6 +49,50 @@ A comprehensive collection of structured notes on Natural Language Processing (N
    - Entity extraction and visualization
    - Practical use cases
 
+### Text Vectorization Methods
+
+7. **[07_BAG_OF_WORDS.md](07_BAG_OF_WORDS.md)**
+   - Text to Vectors conversion
+   - One-Hot Encoding
+   - Bag of Words (BoW) overview
+   - CountVectorizer implementation
+   - Binary Bag of Words
+   - Complete preprocessing pipeline
+   - Advantages and disadvantages
+   - Use cases
+
+8. **[08_TFIDF.md](08_TFIDF.md)**
+   - TF-IDF overview and components
+   - Term Frequency (TF) calculation
+   - Inverse Document Frequency (IDF)
+   - TF-IDF scoring
+   - TfidfVectorizer implementation
+   - TF-IDF with N-Grams
+   - Complete preprocessing pipeline
+   - BoW vs TF-IDF comparison
+
+9. **[09_NGRAMS.md](09_NGRAMS.md)**
+   - N-Gram concepts (Unigrams, Bigrams, Trigrams)
+   - Why N-Grams matter
+   - Character vs Word N-Grams
+   - Implementation with sklearn
+   - N-Grams with TF-IDF
+   - Output examples
+   - Use cases (spam detection, autocomplete, etc)
+   - Best practices
+
+10. **[10_WORD_EMBEDDINGS.md](10_WORD_EMBEDDINGS.md)**
+    - Word Embeddings overview
+    - Problems with previous methods
+    - Vector Space and Semantics
+    - Word2Vec algorithm (Skip-gram, CBOW)
+    - Pre-trained Word2Vec models
+    - Word similarity operations
+    - Semantic relationships and analogies
+    - Training custom models
+    - Beyond Word2Vec (GloVe, FastText, BERT)
+    - Use cases and best practices
+
 ---
 
 ## 🚀 Quick Start
